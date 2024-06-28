@@ -1,6 +1,10 @@
+import Ejercicio1 from "./assets/components/Ejercicio1"
+
 const App = () => {
   return (
-    <h1>Hola Mundo 🌍</h1>
+    <>
+    <Ejercicio1/>
+    </>
   )
 }
 export default App
